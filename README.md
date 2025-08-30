@@ -3,7 +3,6 @@
 **HealthStack** is a web-based platform designed to connect multiple hospitals, enabling **efficient tracking, monitoring, and sharing of patient health records** across institutions.  
 Patients can browse hospitals/doctors, book appointments, pay for lab tests and medicines, access prescriptions/reports, and even **chat with their appointed doctors**.
 
-> 📌 *Software Engineering Project — B.Sc. in Computer Science and Engineering (CSE)*
 
 ---
 
